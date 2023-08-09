@@ -1,0 +1,3 @@
+•	Sometimes you might need several different environments to test your builds. This cannot be done by a single Jenkins server.
+•	If larger and heavier projects get built on a regular basis then a single Jenkins server cannot simply handle the entire load.
+
